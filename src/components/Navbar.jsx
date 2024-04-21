@@ -52,7 +52,7 @@ const Navbar = () => {
               onClick={() => logout()}
               className="hidden lg:block bg-blue-600 py-1.5 px-5 text-white rounded-md mt-1 mb-1 mr-10 text-xl"
             >
-              Log Out
+              Log In
             </button>
           )}
         </div>
